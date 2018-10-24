@@ -1,0 +1,16 @@
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/config/DatasourceConfig.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/service/impl/GenericServiceImpl.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/repository/RandomCityRepository.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/config/ResourceServerConfig.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/service/impl/AppUserDetailsService.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/controller/ResourceController.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/service/GenericService.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/config/AdditionalWebConfig.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/config/AuthorizationServerConfig.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/repository/UserRepository.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/repository/RoleRepository.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/domain/User.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/domain/Role.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/domain/RandomCity.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/SpringbootJwtApplication.java
+/Users/skramer/Documents/zcode/masteringwebsecurity/masteringwebsecurity/springboot-jwt/src/main/java/io/cloudtraining/springboot/jwt/integration/config/SecurityConfig.java

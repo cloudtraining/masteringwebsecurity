@@ -1,0 +1,16 @@
+io/cloudtraining/springboot/jwt/integration/repository/RoleRepository.class
+io/cloudtraining/springboot/jwt/integration/config/AdditionalWebConfig.class
+io/cloudtraining/springboot/jwt/integration/domain/RandomCity.class
+io/cloudtraining/springboot/jwt/integration/config/AuthorizationServerConfig.class
+io/cloudtraining/springboot/jwt/integration/repository/UserRepository.class
+io/cloudtraining/springboot/jwt/integration/service/GenericService.class
+io/cloudtraining/springboot/jwt/integration/service/impl/AppUserDetailsService.class
+io/cloudtraining/springboot/jwt/integration/config/ResourceServerConfig.class
+io/cloudtraining/springboot/jwt/integration/controller/ResourceController.class
+io/cloudtraining/springboot/jwt/integration/domain/Role.class
+io/cloudtraining/springboot/jwt/integration/service/impl/GenericServiceImpl.class
+io/cloudtraining/springboot/jwt/integration/repository/RandomCityRepository.class
+io/cloudtraining/springboot/jwt/integration/config/DatasourceConfig.class
+io/cloudtraining/springboot/jwt/integration/SpringbootJwtApplication.class
+io/cloudtraining/springboot/jwt/integration/config/SecurityConfig.class
+io/cloudtraining/springboot/jwt/integration/domain/User.class

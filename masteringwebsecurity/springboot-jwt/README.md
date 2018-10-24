@@ -1,5 +1,5 @@
-# springboot-jwt
-## An Example Spring Boot Application for Securing a REST API with JSON Web Token (JWT)
+# Spring Security oAuth JWT example
+## An Example Spring Boot Application for Securing a REST API with oAuth and JSON Web Token (JWT)
 
 This application can be used as a seed to quick start your spring boot REST API project with a fully functional security module.
 
@@ -22,9 +22,9 @@ Use one of the several ways of running a Spring Boot application. Below are just
  ### First you will need the following basic pieces of information:
 
  * client: testjwtclientid
- * secret: XY7kmzoNzl100
- * Non-admin username and password: john.doe and jwtpass
- * Admin user: admin.admin and jwtpass
+ * secret: GJZUUzu4UFRzU
+ * Non-admin username and password: user and password
+ * Admin user: admin and password
  * Example of resource accessible to all authenticated users:  http://localhost:8080/springjwt/cities
  * Example of resource accessible to only an admin user:  http://localhost:8080/springjwt/users
 
@@ -34,9 +34,8 @@ Use one of the several ways of running a Spring Boot application. Below are just
    `$ curl client:secret@localhost:8080/oauth/token -d grant_type=password -d username=user -d password=pwd`
 
    For this specific application, to generate an access token for the non-admin user john.doe, run:
-   `$ curl testjwtclientid:XY7kmzoNzl100@localhost:8080/oauth/token -d grant_type=password -d username=john.doe -d password=jwtpass`
+   `$ curl testjwtclientid:GJZUUzu4UFRzU@localhost:8080/oauth/token -d grant_type=password -d username=user -d password=password`
     You'll receive a response similar to below
-
     `
     {
       "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsidGVzdGp3dHJlc291cmNlaWQiXSwidXNlcl9uYW1lIjoiYWRtaW4uYWRtaW4iLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZXhwIjoxNDk0NDU0MjgyLCJhdXRob3JpdGllcyI6WyJTVEFOREFSRF9VU0VSIiwiQURNSU5fVVNFUiJdLCJqdGkiOiIwYmQ4ZTQ1MC03ZjVjLTQ5ZjMtOTFmMC01Nzc1YjdiY2MwMGYiLCJjbGllbnRfaWQiOiJ0ZXN0and0Y2xpZW50aWQifQ.rvEAa4dIz8hT8uxzfjkEJKG982Ree5PdUW17KtFyeec",
